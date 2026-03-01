@@ -24,7 +24,7 @@ def welcome_assignment_answers(question):
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
-        answer = 4
+        answer = 5
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
         answer = 3
     else:
@@ -75,5 +75,6 @@ if __name__ == "__main__":
 #Q9: "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
 
 #Q9A: 2, really trying to understand the TCP/IP model since I understand the OSI model more.
+
 
 
